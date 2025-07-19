@@ -131,6 +131,7 @@ dmcrypt-openrc
 dnscrypt-openrc
 elogind-openrc
 eudev-openrc
+lvm2-openrc
 network-manager-openrc
 nohang-openrc
 ntpsec-openrc
