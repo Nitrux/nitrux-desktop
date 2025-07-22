@@ -179,3 +179,9 @@ cgroupfs-mount
 zenity
 
 #    = Supporting libraries =
+
+libwayland-bin
+libwayland-client++1
+libwayland-client-extra++1
+libwayland-cursor++1
+libwayland-egl++1
