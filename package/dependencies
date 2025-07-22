@@ -78,6 +78,7 @@ language-pack-es-base
 
 #    = Fonts =
 
+fonts-freefont-ttf
 fonts-liberation
 fonts-opensymbol
 fonts-powerline
