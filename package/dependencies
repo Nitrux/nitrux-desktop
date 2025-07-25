@@ -140,6 +140,7 @@ plymouth-openrc
 power-profiles-daemon-openrc
 powertop-openrc
 rsyslog-openrc
+sddm-openrc
 sudo-openrc
 usbmuxd-openrc
 waydroid-openrc
