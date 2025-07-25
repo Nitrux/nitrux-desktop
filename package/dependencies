@@ -31,30 +31,10 @@ pipewire-pulse
 pipewire-v4l2
 wireplumber
 
-#    = Hyprland =
-
-hyprland-meta
-
 #    = Display Manager =
 
 sddm
 sddm-settings
-
-#    = Other desktop software =
-
-cliphist
-mako-notifier
-quickshell
-wlopm
-walker
-
-#    = Desktop Framework Libraries =
-
-dfl-ipc
-dfl-applications
-dfl-utils
-dfl-login1
-dfl-wayqt-qt6
 
 #    = Desktop theming =
 
@@ -90,8 +70,6 @@ gnome-keyring
 #    = XDG configuration =
 
 desktop-file-utils
-xdg-desktop-portal-hyprland
-xdg-desktop-portal-wlr
 xdg-user-dirs
 xdg-utils
 
