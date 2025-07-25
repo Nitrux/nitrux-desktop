@@ -125,6 +125,15 @@ waydroid-openrc
 
 #    = XORG =
 
+x11-xkb-utils
+xclip
+xfonts-base
+xfonts-encodings
+xfonts-utils
+xsel
+xserver-common
+
+
 #    = Wayland =
 
 wayland-protocols
