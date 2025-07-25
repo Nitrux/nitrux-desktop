@@ -37,9 +37,8 @@ hyprland-meta
 
 #    = Display Manager =
 
-greetd
-greetd-qtgreet
-greetd-qtgreet-settings
+sddm
+sddm-settings
 
 #    = Other desktop software =
 
