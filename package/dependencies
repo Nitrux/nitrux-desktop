@@ -170,6 +170,7 @@ dbus
 dbus-bin
 desktop-file-utils
 hyprland-core
+kde-cli-tools
 power-profiles-daemon
 xdg-desktop-portal-gtk
 xdg-desktop-portal-hyprland
