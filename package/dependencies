@@ -55,12 +55,7 @@ plymouth-theme-nitrux
 
 #    = Fonts =
 
-fonts-freefont-ttf
-fonts-liberation
 fonts-nitrux-desktop
-fonts-opensymbol
-fonts-powerline
-fonts-unfonts-core
 
 #    = Other KDE or Qt software =
 
