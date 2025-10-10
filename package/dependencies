@@ -83,7 +83,6 @@ xdg-utils
 #    = PAM libraries =
 
 libpam-apparmor
-libpam-cracklib
 libpam-elogind
 libpam-fprintd
 libpam-kwallet-common
