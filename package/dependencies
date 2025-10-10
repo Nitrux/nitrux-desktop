@@ -83,7 +83,15 @@ xdg-utils
 #    = PAM libraries =
 
 libpam-apparmor
+libpam-cracklib
+libpam-elogind
+libpam-fprintd
+libpam-kwallet-common
+libpam-kwallet5
+libpam-modules
+libpam-modules-bin
 libpam-pwquality
+libpam-runtime
 libpam-tmpdir
 
 #    = Python =
@@ -182,7 +190,6 @@ xdg-utils
 
 libkf6kcmutils-bin
 libnotify-bin
-libpam-pwquality
 libqt6quickwidgets6
 libqt6waylandcompositor6
 libqt6wlshellintegration6
