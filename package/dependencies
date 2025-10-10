@@ -6,6 +6,8 @@
 dhcpcd-base
 dnsmasq
 network-manager
+network-manager-openconnect
+network-manager-openvpn
 ntpsec
 ntpsec-ntpdate
 wpasupplicant
@@ -121,6 +123,7 @@ dmcrypt-openrc
 dnscrypt-openrc
 elogind-openrc
 eudev-openrc
+fprint-openrc
 lvm2-openrc
 network-manager-openrc
 nohang-openrc
