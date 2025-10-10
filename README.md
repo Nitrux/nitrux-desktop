@@ -1,4 +1,4 @@
-# Nitrux NX Desktop Meta package
+# Nitrux Desktop Meta package
 
 This repository contains the source to create the `nitrux-desktop` metapackage.
 
