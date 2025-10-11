@@ -183,9 +183,11 @@ desktop-file-utils
 hyprland-core
 kde-cli-tools
 power-profiles-daemon
+xdg-desktop-portal-gnome
 xdg-desktop-portal-gtk
 xdg-desktop-portal-hyprland
 xdg-desktop-portal-kde
+xdg-desktop-portal-wlr
 xdg-user-dirs
 xdg-utils
 
