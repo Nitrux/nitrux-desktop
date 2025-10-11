@@ -190,6 +190,7 @@ xdg-desktop-portal-kde
 xdg-desktop-portal-wlr
 xdg-user-dirs
 xdg-utils
+wev
 
 #    = Supporting libraries =
 
