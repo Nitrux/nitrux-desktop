@@ -138,7 +138,6 @@ rsyslog-openrc
 sddm-openrc
 sudo-openrc
 usbmuxd-openrc
-waydroid-openrc
 
 #    = XORG =
 
