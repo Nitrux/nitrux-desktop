@@ -130,7 +130,6 @@ nohang-openrc
 ntpsec-openrc
 nvidia-openrc
 plymouth-openrc
-polkitd-openrc
 power-profiles-daemon-openrc
 powertop-openrc
 rngd-openrc
