@@ -180,9 +180,12 @@ cgroupfs-mount
 dbus
 dbus-bin
 desktop-file-utils
+evtest
 hyprland-core
 kde-cli-tools
+libinput-tools
 power-profiles-daemon
+wev
 xdg-desktop-portal-gnome
 xdg-desktop-portal-gtk
 xdg-desktop-portal-hyprland
@@ -190,7 +193,6 @@ xdg-desktop-portal-kde
 xdg-desktop-portal-wlr
 xdg-user-dirs
 xdg-utils
-wev
 
 #    = Supporting libraries =
 
