@@ -114,6 +114,7 @@ python3-yaml
 #    = OpenRC services =
 
 acpi-openrc
+ananicy-cpp-openrc
 apparmor-openrc
 bluetooth-openrc
 cron-openrc
