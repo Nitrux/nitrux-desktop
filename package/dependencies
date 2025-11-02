@@ -199,6 +199,7 @@ xdg-utils
 
 libkf6kcmutils-bin
 libnotify-bin
+libqca-qt6-plugins
 libqt6quickwidgets6
 libqt6waylandcompositor6
 libqt6wlshellintegration6
