@@ -158,7 +158,6 @@ xsettingsd
 layer-shell-qt
 wayland-protocols
 wayland-utils
-wdisplays
 xwayland
 xwaylandvideobridge
 
