@@ -182,6 +182,7 @@ dbus
 dbus-bin
 desktop-file-utils
 evtest
+gamescope
 hyprland-core
 kde-cli-tools
 libinput-tools
