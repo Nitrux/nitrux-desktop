@@ -176,6 +176,7 @@ wireguard-tools
 
 ananicy-cpp
 ananicy-rules
+bc
 cgroupfs-mount
 dbus
 dbus-bin
