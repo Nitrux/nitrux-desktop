@@ -181,10 +181,12 @@ cgroupfs-mount
 dbus
 dbus-bin
 desktop-file-utils
+edid-decode
 evtest
 gamescope
 hyprland-core
 kde-cli-tools
+libdrm-tests
 libinput-tools
 power-profiles-daemon
 wev
