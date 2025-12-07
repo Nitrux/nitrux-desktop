@@ -124,6 +124,7 @@ dmcrypt-openrc
 dnscrypt-openrc
 elogind-openrc
 eudev-openrc
+firewalld-openrc
 fprint-openrc
 lvm2-openrc
 network-manager-openrc
