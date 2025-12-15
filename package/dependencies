@@ -165,6 +165,7 @@ xwaylandvideobridge
 
 apparmor
 cifs-utils
+fido2-tools
 firewalld
 keyutils
 policycoreutils
