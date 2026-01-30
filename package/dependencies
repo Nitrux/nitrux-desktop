@@ -35,8 +35,8 @@ wireplumber
 
 #    = Display Manager =
 
-greetd-qtgreet
-greetd-qtgreet-settings
+greetd-qmlgreet
+nitrux-qmlgreet-settings
 
 #    = Desktop theming =
 
