@@ -163,7 +163,6 @@ xwaylandvideobridge
 
 #    = Security software =
 
-apparmor
 cifs-utils
 fido2-tools
 firewalld
