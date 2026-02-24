@@ -189,6 +189,7 @@ hyprland-core
 kde-cli-tools
 libdrm-tests
 libinput-tools
+nitrux-system-rescue
 power-profiles-daemon
 wev
 xdg-desktop-portal-gtk
