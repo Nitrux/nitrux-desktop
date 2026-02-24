@@ -189,7 +189,6 @@ hyprland-core
 kde-cli-tools
 libdrm-tests
 libinput-tools
-nitrux-system-rescue
 power-profiles-daemon
 wev
 xdg-desktop-portal-gtk
@@ -212,3 +211,7 @@ libwayland-client++1
 libwayland-client-extra++1
 libwayland-cursor++1
 libwayland-egl++1
+
+#    = Supporting software =
+
+nitrux-rescue-mode
