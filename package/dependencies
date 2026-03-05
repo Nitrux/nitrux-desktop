@@ -94,6 +94,7 @@ libpam-modules-bin
 libpam-pwquality
 libpam-runtime
 libpam-tmpdir
+libpam-u2f
 
 #    = Python =
 
