@@ -137,6 +137,7 @@ power-profiles-daemon-openrc
 powertop-openrc
 rngd-openrc
 rsyslog-openrc
+rtkit-openrc
 sudo-openrc
 usbmuxd-openrc
 
