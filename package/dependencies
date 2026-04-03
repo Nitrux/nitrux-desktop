@@ -161,7 +161,6 @@ layer-shell-qt
 wayland-protocols
 wayland-utils
 xwayland
-xwaylandvideobridge
 
 #    = Security software =
 
