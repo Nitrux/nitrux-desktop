@@ -185,7 +185,7 @@ desktop-file-utils
 edid-decode
 evtest
 gamescope
-hyprland
+hyprland-desktop
 hyprscreend
 kde-cli-tools
 libdrm-tests
