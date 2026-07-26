@@ -193,7 +193,6 @@ libinput-tools
 power-profiles-daemon
 wev
 xdg-desktop-portal-gtk
-xdg-desktop-portal-hyprland
 xdg-desktop-portal-kde
 xdg-user-dirs
 xdg-utils
