@@ -40,6 +40,7 @@ nitrux-qmlgreet-settings
 
 #    = Desktop theming =
 
+adwaita-icon-theme-legacy
 breeze-gtk-theme
 luv-icon-theme
 nitrux-desktop-settings
