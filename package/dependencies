@@ -185,7 +185,6 @@ dbus-bin
 desktop-file-utils
 edid-decode
 evtest
-gamescope
 hyprland-desktop
 hyprscreend
 kde-cli-tools
