@@ -187,6 +187,7 @@ edid-decode
 evtest
 hyprland-desktop
 hyprscreend-cpp
+jq
 kde-cli-tools
 libdrm-tests
 libinput-tools
