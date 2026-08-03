@@ -186,7 +186,7 @@ desktop-file-utils
 edid-decode
 evtest
 hyprland-desktop
-hyprscreend
+hyprscreend-cpp
 kde-cli-tools
 libdrm-tests
 libinput-tools
