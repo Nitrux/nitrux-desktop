@@ -191,6 +191,7 @@ jq
 kde-cli-tools
 libdrm-tests
 libinput-tools
+nx-powerd
 power-profiles-daemon
 wev
 xdg-desktop-portal-gtk
