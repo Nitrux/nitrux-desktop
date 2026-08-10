@@ -195,7 +195,7 @@ nx-powerd
 power-profiles-daemon
 wev
 xdg-desktop-portal-gtk
-xdg-desktop-portal-kde
+xdg-desktop-portal-nx
 xdg-user-dirs
 xdg-utils
 
