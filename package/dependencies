@@ -41,7 +41,6 @@ nitrux-qmlgreet-settings
 #    = Desktop theming =
 
 adwaita-icon-theme-legacy
-breeze-gtk-theme
 luv-icon-theme
 nitrux-desktop-settings
 nitrux-gtk-theme
@@ -68,9 +67,6 @@ fonts-nitrux-desktop
 
 bluedevil
 pinentry-qt
-plasma-nm
-plasma-pa
-plasma-workspace
 polkit-kde-agent-1
 
 #    = Other GTK software =
@@ -80,6 +76,7 @@ gnome-keyring
 #    = XDG configuration =
 
 desktop-file-utils
+xdg-desktop-portal-nx
 xdg-user-dirs
 xdg-utils
 
@@ -196,10 +193,6 @@ libinput-tools
 nx-powerd
 power-profiles-daemon
 wev
-xdg-desktop-portal-gtk
-xdg-desktop-portal-nx
-xdg-user-dirs
-xdg-utils
 
 #    = Supporting libraries =
 
