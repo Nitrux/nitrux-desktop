@@ -82,6 +82,8 @@ xdg-utils
 
 #    = PolicyKit =
 
+polkit-nx-agent
+
 #    = PAM libraries =
 
 libpam-apparmor
