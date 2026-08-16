@@ -20,6 +20,7 @@ gstreamer1.0-plugins-good
 gstreamer1.0-plugins-ugly
 gstreamer1.0-pulseaudio
 media-types
+webp-pixbuf-loader
 
 #    = Audio =
 
