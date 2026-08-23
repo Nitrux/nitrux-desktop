@@ -19,7 +19,9 @@ gstreamer1.0-plugins-base
 gstreamer1.0-plugins-good
 gstreamer1.0-plugins-ugly
 gstreamer1.0-pulseaudio
+kdegraphics-thumbnailers
 media-types
+qt6-image-formats-plugins
 webp-pixbuf-loader
 
 #    = Audio =
