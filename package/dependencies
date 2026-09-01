@@ -195,6 +195,7 @@ kde-cli-tools
 libdrm-tests
 libinput-tools
 nx-powerd
+nwsm
 power-profiles-daemon
 wev
 
