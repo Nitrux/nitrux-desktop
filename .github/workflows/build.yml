@@ -3,7 +3,7 @@ name: Build and push packages to PackageCloud.
 on:
   push:
     branches:
-      - 'main'
+      - 'nwsm-compat'
     paths-ignore:
       - 'README.md'
 
