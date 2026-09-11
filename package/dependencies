@@ -213,6 +213,7 @@ libwayland-client++1
 libwayland-client-extra++1
 libwayland-cursor++1
 libwayland-egl++1
+libyaml-cpp0.9
 
 #    = Supporting software =
 
