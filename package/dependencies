@@ -219,3 +219,12 @@ libyaml-cpp0.9
 
 hcvl-framework
 nitrux-rescue-mode
+
+#    = Development software =
+
+automake
+autotools-dev
+cmake
+build-essential
+extra-cmake-modules
+gettext
